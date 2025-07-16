@@ -14,11 +14,11 @@ Projeto de site responsivo para uma cafeteria, desenvolvido como parte do meu po
 
 ## 📚 Índice
 
+- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)  
 - [✨ Funcionalidades](#-funcionalidades)  
 - [📸 Capturas de Tela](#-capturas-de-tela)  
 - [🛠 Tecnologias Utilizadas](#-tecnologias-utilizadas)  
 - [🚀 Como Visualizar](#-como-visualizar)  
-- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)  
 
 ---
 
@@ -36,9 +36,10 @@ Projeto de site responsivo para uma cafeteria, desenvolvido como parte do meu po
 
 ## 📸 Capturas de Tela
 
-> *(Adicione prints do site aqui, se desejar)*
-
+## HOME
 ![Home](./assets/preview-home.png)  
+
+## CARDÁPIO
 ![Cardápio](./assets/preview-menu.png)
 
 ---
